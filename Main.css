@@ -1,0 +1,28 @@
+  .intro{
+          color:white;
+         background-color:green;
+         font-family:courier;
+          text-align:left;  
+           width:75%;
+   
+             
+           }
+  } 
+    
+    .body{
+      background-color:red;
+      text-align:center;
+    }
+    
+    .content{
+      text-align:center;
+      background-color:blue;
+      width:50%;
+      height:500px;
+      font-size:8px;
+    }
+       .image{
+    width:100%;
+         border:10px dashed red
+    }
+    
